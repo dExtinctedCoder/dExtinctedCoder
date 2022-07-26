@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dExtinctedCoder&theme=blue-green)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/dExtinctedCoder)
