@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/dExtinctedCoder/dExtinctedCoder)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/dExtinctedCoder)
